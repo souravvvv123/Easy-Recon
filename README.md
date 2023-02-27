@@ -23,9 +23,13 @@ Usage:
  =>  please enter a domain or use -h to view the available options
  =>  www.example.com
  
+ 
+ 
  ./easy-recon.sh -i
  =>  please enter a domain or use -h to view the available options
  =>  www.example.com
+ 
+ 
  
  ./easy-recon.sh -p
  =>  please enter a domain or use -h to view the available options
